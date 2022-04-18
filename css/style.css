@@ -1,9 +1,3 @@
-/*
-  Theme Name: eBusiness
-  Theme URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
 
 /*-----------------------------------------------------------------------------------
    CSS INDEX
@@ -16,7 +10,7 @@
   4.Services Area
   5.Skill Area
   6.Faq Area
-  7.Wellcome Area
+  7.Welcome Area
   8.Team Area
   9.Review Area
   10.Portfolio Area
@@ -715,7 +709,7 @@ div#preloader {
 }
 
 /*----------------------------------------
- 7.Wellcome Area Css
+ 7.Welcome Area Css
 ----------------------------------------*/
 
 .wellcome-area {
