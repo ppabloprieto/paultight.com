@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Quicksand', sans-serif;
   margin: 0 0 15px;
   color: #444;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 h1 {
@@ -596,7 +596,7 @@ div#preloader {
 .faq-details a span.acc-icons::before {
   color: #333;
   content: "";
-  font-family: fontawesome;
+  font-family: quicksand;
   font-size: 24px;
   height: 40px;
   left: -51px;
@@ -613,7 +613,7 @@ div#preloader {
 
 .faq-details a.active span.acc-icons::before {
   content: "";
-  font-family: fontawesome;
+  font-family: quicksand;
   font-size: 24px;
   height: 40px;
   left: -51px;
@@ -1238,7 +1238,7 @@ div#preloader {
 
 .pri_table_list li.check.cross::after {
   content: "\f00d";
-  font-family: fontawesome;
+  font-family: quicksand;
   font-size: 14px;
   position: absolute;
   right: 50px;
@@ -1248,7 +1248,7 @@ div#preloader {
 
 .pri_table_list li.check::after {
   content: "\f00c";
-  font-family: fontawesome;
+  font-family: quicksand;
   font-size: 14px;
   position: absolute;
   right: 50px;
@@ -1489,7 +1489,7 @@ div#preloader {
 
 .blog-btn::after {
   content: "\f178";
-  font-family: fontawesome;
+  font-family: quicksand;
   position: absolute;
   right: -20px;
   top: 1px;
