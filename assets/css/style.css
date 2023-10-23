@@ -1382,7 +1382,7 @@ a {
 .pb_footer {
   padding: 5em 0; }
   .pb_footer .list-unstyled li {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     line-height: 1.5; }
   .pb_footer.bg-black {
     background: #000; }
