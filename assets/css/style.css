@@ -1306,7 +1306,7 @@ a {
   padding: 9em 0;
   position: relative;
   display: block; 
-  background: rgba(0, 0, 0, 0.7) !important;}
+  background: rgba(0, 0, 0, 0.95) !important;}
   @media (max-width: 991px) {
     .pb_section {
       padding: 4em 0; } }
@@ -1680,7 +1680,7 @@ a {
     color: #00CA4C; }
 
 .pb_slide_v2 .slide_content {
-  background: #fff;
+  background: #000;
   -webkit-box-shadow: 0px 1px 10px -2px rgba(0, 0, 0, 0.15);
   box-shadow: 0px 1px 10px -2px rgba(0, 0, 0, 0.15); }
   @media (max-width: 991px) {
