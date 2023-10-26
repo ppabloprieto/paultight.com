@@ -103,6 +103,7 @@ a {
 	padding: 9em 0;
 	position: relative;
 	display: block;
+	background: $black;
 	@include media-breakpoint-down(md) {
 		padding: 4em 0;
 	}
