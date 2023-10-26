@@ -1129,7 +1129,7 @@ a {
         padding-right: 0 !important; } }
     .pb_navbar.scrolled .navbar-toggler {
       border: none;
-      color: rgba(0, 0, 0, 0.5);
+      color: rgba(255, 255, 255, 0.5);
       border-color: rgba(0, 0, 0, 0.5);
       cursor: pointer;
       padding-right: 0; }
@@ -1159,7 +1159,7 @@ a {
           padding-left: 0rem !important;
           padding-right: 0rem !important; } }
       .pb_navbar.scrolled.pb_scrolled-light ul li a {
-        color: #212529 !important; }
+        color: #fff !important; }
         .pb_navbar.scrolled.pb_scrolled-light ul li a:hover, .pb_navbar.scrolled.pb_scrolled-light ul li a:active, .pb_navbar.scrolled.pb_scrolled-light ul li a:focus {
           color: #868e96 !important; }
         .pb_navbar.scrolled.pb_scrolled-light ul li a.active {
