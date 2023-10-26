@@ -111,7 +111,7 @@ a {
 		&:before {
 			top: 50%;
 			content: "";
-			background: $gray-100;
+			background: $black;
 			bottom: 0%;
 			width: 100%;
 			left: 0;
@@ -552,7 +552,7 @@ a {
 		}
 	}
 	.slide_content {
-		background: $white;
+		background: $black;
 		box-shadow: 0px 1px 10px -2px rgba(0,0,0,0.15);
 		> .pb_content-media {
 			@extend .bg_image;
