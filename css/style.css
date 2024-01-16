@@ -300,7 +300,7 @@ svg {
 
 /* Typography */
 @font-face {
-  font-family: 'GillSans';
+  font-family: 'Montserrat';
   src: url("../fonts/2A8A52_0_0.eot");
   src: url("../fonts/2A8A52_0_0d41d.eot?#iefix") format("embedded-opentype"), url("../fonts/2A8A52_0_0.woff") format("woff"), url("../fonts/2A8A52_0_0.ttf") format("truetype"), url("../fonts/2A8A52_0_0.svg#wf") format("svg");
   font-weight: normal;
@@ -340,7 +340,7 @@ html {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .section-team .team-members li .team-member-title, .h3, .section-brand .guidelines .columns .colors ul li, .h4, .h5, .h6 {
   color: white;
-  font-family: "GillSans", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   vertical-align: top;
   text-transform: uppercase;
   text-align: center;
@@ -416,7 +416,7 @@ h1 .super-seconday, h2 .super-seconday, h3 .super-seconday, h4 .super-seconday, 
 .h1 .super-seconday, .h2 .super-seconday, .section-team .team-members li .team-member-title .super-seconday, .h3 .super-seconday, .section-brand .guidelines .columns .colors ul li .super-seconday, .h4 .super-seconday, .h5 .super-seconday, .h6 .super-seconday {
   display: block;
   line-height: 1.2em;
-  font-family: "GillSans", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   font-size: 0.9em;
 }
 h1 .main, h2 .main, h3 .main, h4 .main, h5 .main, h6 .main,
@@ -634,7 +634,7 @@ input[type="secondaymit"] {
   margin: 0;
   background: transparent;
   border: 0;
-  font-family: "GillSans", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   font-size: 1em;
   color: white;
 }
@@ -660,7 +660,7 @@ input[type="secondaymit"] {
   line-height: 2.65em;
   padding: 0 20px;
   padding: 0 1.25rem;
-  font-family: "GillSans", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   font-size: 24px;
   font-size: 1.5rem;
   text-transform: uppercase;
@@ -1650,7 +1650,7 @@ margin-left: 15px;
 .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .h1 .em,
 .h1 .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .em, .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .h2 .em, .h2 .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .em, .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .section-team .team-members li .team-member-title .em, .section-team .team-members li .team-member-title .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .em, .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .h3 .em, .h3 .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .em, .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .section-brand .guidelines .columns .colors ul li .em, .section-brand .guidelines .columns .colors ul li .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .em, .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .h4 .em, .h4 .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .em, .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .h5 .em, .h5 .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .em, .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .h6 .em, .h6 .stastistical-part .content .statistics .pieChart .pieChart-overlay h3 .em {
   margin-top: 0.5em;
-  font-family: "GillSans", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   text-transform: uppercase;
   font-size: 0.6em;
 }
