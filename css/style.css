@@ -308,9 +308,9 @@ svg {
 }
 
 @font-face {
-  font-family: 'dubielitalic';
-  src: url("../fonts/DubielItalic-webfont.eot");
-  src: url("../fonts/DubielItalic-webfontd41d.eot?#iefix") format("embedded-opentype"), url("../fonts/DubielItalic-webfont.woff") format("woff"), url("../fonts/DubielItalic-webfont.ttf") format("truetype"), url("../fonts/DubielItalic-webfont.svg#dubielitalic") format("svg");
+  font-family: 'Crimson';
+  src: url("../fonts/Crimson-webfont.eot");
+  src: url("../fonts/Crimson-webfontd41d.eot?#iefix") format("embedded-opentype"), url("../fonts/Crimson-webfont.woff") format("woff"), url("../fonts/Crimson-webfont.ttf") format("truetype"), url("../fonts/Crimson-webfont.svg#Crimson") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -402,7 +402,7 @@ h6 .h1 .em,
 .h6 .h1 .em,
 .h1 .h6 .em, .h6 .h2 .em, .h2 .h6 .em, .h6 .section-team .team-members li .team-member-title .em, .section-team .team-members li .team-member-title .h6 .em, .h6 .h3 .em, .h3 .h6 .em, .h6 .section-brand .guidelines .columns .colors ul li .em, .section-brand .guidelines .columns .colors ul li .h6 .em, .h6 .h4 .em, .h4 .h6 .em, .h6 .h5 .em, .h5 .h6 .em, .h6 .em {
   display: block;
-  font-family: "dubielitalic", Arial, sans-serif;
+  font-family: "Crimson", Arial, sans-serif;
   font-size: 0.9em;
   text-transform: none;
   color: #919799;
@@ -2781,7 +2781,7 @@ margin-left: 15px;
   font-size: 0.8em;
 }
 .pricing-part .pricing-container .pricing-wrapper .pricing-slide .headergroup h3 {
-  font-family: "dubielitalic", Arial, sans-serif;
+  font-family: "Crimson", Arial, sans-serif;
   font-size: 2.75em;
   text-transform: none;
 }
