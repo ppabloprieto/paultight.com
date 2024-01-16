@@ -2300,7 +2300,7 @@ margin-left: 15px;
 }
 @media screen and (min-width: 1200px) {
   .section-intro {
-    height: 70em;
+    height: 60em;
     background-size: 100% auto;
     background-attachment: fixed;
   }
