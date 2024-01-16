@@ -403,7 +403,7 @@ h6 .h1 .em,
 .h1 .h6 .em, .h6 .h2 .em, .h2 .h6 .em, .h6 .section-team .team-members li .team-member-title .em, .section-team .team-members li .team-member-title .h6 .em, .h6 .h3 .em, .h3 .h6 .em, .h6 .section-brand .guidelines .columns .colors ul li .em, .section-brand .guidelines .columns .colors ul li .h6 .em, .h6 .h4 .em, .h4 .h6 .em, .h6 .h5 .em, .h5 .h6 .em, .h6 .em {
   display: block;
   font-family: "Montserrat", Arial, sans-serif;
-  font-size: 0.9em;
+  font-size: 0.5em;
   text-transform: none;
   color: #919799;
 
