@@ -1281,12 +1281,12 @@ footer .contact-form button.filled-button:hover {
 		line-height: 25px;
 		margin-bottom: 30px;
 	}
-	/*.Modern-Slider .NextArrow{
-	  right:1px;
+	.Modern-Slider .NextArrow{
+	  right:5px;
 	}
 	.Modern-Slider .PrevArrow {
-	  left:1px;
-	}*/
+	  left:5px;
+	}
 	.request-form {
 		text-align: center;
 	}
