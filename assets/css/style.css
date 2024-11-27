@@ -32,8 +32,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a.filled-button {
-	background-color: #eee;
-	color: #343434;
+	background-color: #343434;
+	color: #fff;
 	font-size: 13px;
 	text-transform: uppercase;
 	font-weight: 400;
@@ -73,8 +73,8 @@ a.border-button:hover {
 
 .section-heading h2 {
 	font-size: 36px;
-	font-weight: 600;
-	color: #1e1e1e;
+	font-weight: 400;
+	color: #fff;
 }
 
 .section-heading em {
@@ -87,13 +87,13 @@ a.border-button:hover {
 	margin-top: 15px;
 	text-transform: uppercase;
 	font-size: 15px;
-	color: #666;
+	color: #999;
 	letter-spacing: 1px;
 }
 
 #preloader {
   overflow: hidden;
-  background: #f3e786;
+  background: #232323;
   left: 0;
   right: 0;
   top: 0;
@@ -559,19 +559,26 @@ ul.slick-dots {
 }
 
 .service-item .down-content {
-	background-color: #f7f7f7;
+	background-color: #232323;
 	padding: 30px;
 }
 
 .service-item .down-content h4 {
 	font-size: 20px;
-	font-weight: 700;
-	letter-spacing: 0.25px;
+	font-weight: 500;
+	letter-spacing: 1.25px;
 	margin-bottom: 15px;
+	color: #fff;
 }
+
+.service-item .down-content span {
+	margin-bottom: 20px;
+	color: #f3e786;
+}	
 
 .service-item .down-content p {
 	margin-bottom: 20px;
+	color: #ddd;
 }
 
 
@@ -599,8 +606,9 @@ ul.slick-dots {
 }
 
 .fun-facts h2 {
-	font-size: 36px;
-	font-weight: 600;
+	font-size: 30px;
+	font-weight: 500;
+	letter-spacing: 1.25px;
 	margin-bottom: 35px;
 }
 
@@ -628,14 +636,14 @@ ul.slick-dots {
 .count-digit {
     margin: 5px 0px;
     color: #f3e786;
-    font-weight: 700;
-    font-size: 36px;
+    font-weight: 500;
+    font-size: 28px;
 }
 .count-title {
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 15px;
+    font-weight: 500;
     color: #fff;
-    letter-spacing: 0.5px;
+    letter-spacing: 1.25px;
 }
 
 
@@ -652,7 +660,7 @@ ul.slick-dots {
 }
 
 .more-info .more-info-content {
-	background-color: #f7f7f7;
+	background-color: #232323;
 }
 
 .about-info .more-info-content {
@@ -665,21 +673,23 @@ ul.slick-dots {
 }
 
 .more-info .right-content {
-	padding: 45px 45px 45px 30px;
+	padding: 35px 45px 35px 30px;
 }
 
 .more-info .right-content span {
 	text-transform: uppercase;
 	font-size: 15px;
-	color: #666;
+	color: #f3e786;
 	letter-spacing: 1px;
 	margin-bottom: 10px;
 	display: block;
 }
 
 .more-info .right-content h2 {
-	font-size: 36px;
-	font-weight: 600;
+	font-size: 25px;
+	font-weight: 500;
+	letter-spacing: 1.25px;
+	color: #fff;
 	margin-bottom: 35px;
 }
 
@@ -689,7 +699,8 @@ ul.slick-dots {
 }
 
 .more-info .right-content p {
-	margin-bottom: 30px;
+	color: #ddd;
+	margin-bottom: 0px;
 }
 
 
@@ -870,7 +881,12 @@ ul.slick-dots {
 
 .partners {
 	margin-top: 140px;
-	background-color: #f7f7f7;
+	background-image: url(../images/fun-facts-bg.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-color: #ddd;
 	padding: 60px 0px;
 }
 
@@ -897,8 +913,8 @@ footer {
 footer h4 {
 	color: #fff;
 	font-size: 20px;
-	font-weight: 600;
-	letter-spacing: 0.25px;
+	font-weight: 500;
+	letter-spacing: 1.25px;
 	margin-bottom: 35px;
 }
 footer p {
@@ -1051,13 +1067,16 @@ footer .contact-form button.filled-button:hover {
 	color: #fff;
 }
 
+/* Page-heading */
 
 .page-heading {
 	text-align: center;
-	background-image: url(../images/page-heading-bg.jpg);
+	background-image: url(../images/fun-facts-bg.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-attachment: fixed;
+	background-color: #ddd;
 	padding: 230px 0px 150px 0px;
 	color: #fff;
 }
@@ -1082,10 +1101,17 @@ footer .contact-form button.filled-button:hover {
 /* team */
 
 .team {
-	background-color: #f7f7f7;
+	background-color: #232323;
 	margin-top: 140px;
 	margin-bottom: 0px;
 	padding: 120px 0px;
+}
+
+.team h2 {
+	font-size: 25px;
+	font-weight: 500;
+	letter-spacing: 1.25px;
+	color: #fff;
 }
 
 .team-item img {
@@ -1141,9 +1167,9 @@ footer .contact-form button.filled-button:hover {
 	width: 100%;
 	padding: 30px 30px;
 	display: inline-block;
-	background-color: #f7f7f7;
+	background-color: #232323;
   	font-size: 20px;
-  	color: #232323;
+  	color: #ddd;
   	letter-spacing: 0.5px;
   	font-weight: 400;
   	transition: all 0.3s;
@@ -1153,8 +1179,8 @@ footer .contact-form button.filled-button:hover {
 	margin-top: 5px;
 }
 #tabs ul .ui-tabs-active span {
-  background: #faf5b2;
-  border: #faf5b2;
+  background: #f3e786;
+  border: #f3e786;
   line-height: 90px;
   border-bottom: none;
 }
@@ -1176,15 +1202,20 @@ footer .contact-form button.filled-button:hover {
 	overflow: hidden;
 }
 .tabs-content h4 {
-	font-size: 20px;
-	font-weight: 700;
-	letter-spacing: 0.25px;
-	margin-bottom: 15px;
-	margin-top: 30px;
+	font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 1.25px;
+    margin-bottom: 35px;
+	color: #f3e786;
+	margin-top: 50px;
 }
+.tabs-content span {
+	color: #fff;
+}
+
 .tabs-content p {
   font-size: 14px;
-  color: #7a7a7a;
+  color: #ddd;
   margin-bottom: 0px;
 }
 
@@ -1199,7 +1230,7 @@ footer .contact-form button.filled-button:hover {
 
 .contact-information .contact-item {
 	padding: 60px 30px;
-	background-color: #f7f7f7;
+	background-color: #232323;
 	text-align: center;
 }
 
@@ -1210,13 +1241,15 @@ footer .contact-form button.filled-button:hover {
 }
 
 .contact-information .contact-item h4 {
-	font-size: 20px;
-	font-weight: 700;
-	letter-spacing: 0.25px;
+	font-size: 25px;
+	font-weight: 500;
+	letter-spacing: 1.25px;
+	color: #fff;
 	margin-bottom: 15px;
 }
 
 .contact-information .contact-item p {
+	color: #ddd;
 	margin-bottom: 20px;
 }
 
