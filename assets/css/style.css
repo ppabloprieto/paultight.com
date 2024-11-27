@@ -1120,27 +1120,26 @@ footer .contact-form button.filled-button:hover {
 }
 
 .team-item .down-content {
-	background-color: #fff;
+	background-color: #343434;
 	padding: 30px;
 }
 
 .team-item .down-content h4 {
 	font-size: 20px;
-	font-weight: 700;
-	letter-spacing: 0.25px;
-	margin-bottom: 10px;
+	font-weight: 500;
+	letter-spacing: 1.25px;
+	margin-bottom: 15px;
+	color: #fff;
 }
 
 .team-item .down-content span {
+	margin-bottom: 20px;
 	color: #f3e786;
-	font-weight: 600;
-	font-size: 14px;
-	display: block;
-	margin-bottom: 15px;
 }
 
 .team-item .down-content p {
 	margin-bottom: 20px;
+	color: #ddd;
 }
 
 
