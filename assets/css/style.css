@@ -1283,9 +1283,11 @@ footer .contact-form button.filled-button:hover {
 	}
 	.Modern-Slider .NextArrow{
 	  right:5px;
+		visibility: hidden;
 	}
 	.Modern-Slider .PrevArrow {
 	  left:5px;
+		visibility: hidden;
 	}
 	.request-form {
 		text-align: center;
